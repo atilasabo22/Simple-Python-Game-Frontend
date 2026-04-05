@@ -1,3 +1,17 @@
+Fully functional extensible Python Game frontend. Built with Gemini AI in Pro mode.
+
+Troubleshooting & Support
+
+If you encounter errors (e.g., the script cannot find your game path or hard drive), please follow these steps:
+
+1. **Check your Paths:** Ensure the paths in your `games.json` or the selected folder actually exist on your system.
+2. **AI Assistance for Customization:** If the script doesn't fit your specific drive configuration, I recommend using **Gemini AI**. Simply copy the error message and your script code into Gemini and ask:
+   > *"I am using this Game Frontend script. I am getting the following error: [Paste Error]. Please adjust the script so it is compatible with my hard drive paths and system setup."*
+
+Gemini is excellent at quickly rewriting the path logic specifically for your PC to make the script 100% compatible with your environment.
+
+Additionally, Gemini AI can use pip install pyinstaller to create the Gaame Frontend Python script into an executable exe file.
+
 Python Game Frontend & Manager
 
 A lightweight, Python-based game frontend designed to manage and launch your game collection. This tool is specifically optimized for dual-monitor setups (e.g., a main monitor for management and a vertical/portrait monitor for displaying game art).
