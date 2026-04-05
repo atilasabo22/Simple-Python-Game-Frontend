@@ -33,3 +33,6 @@ pip install PyQt6 pygame psutil keyboard pyautogui
 2.  **Navigation:** Use your mouse or a connected controller (LB/RB) to scroll through the list. The cover on the second monitor updates in real-time.
 3.  **SteamGridDB Tool:** Press **F9**, speak the name of a game, and your browser will immediately open the search results for high-quality grid logos.
    
+Video tutorial 
+
+https://youtu.be/ZJOWAeQLvEo?si=oe8dEp71zUaF8w3K
