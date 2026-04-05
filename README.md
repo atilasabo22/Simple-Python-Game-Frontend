@@ -36,3 +36,6 @@ pip install PyQt6 pygame psutil keyboard pyautogui
 Video tutorial 
 
 https://youtu.be/ZJOWAeQLvEo?si=oe8dEp71zUaF8w3K
+
+<img width="620" height="503" alt="2026-04-05 17_12_36-Game Frontend Manager" src="https://github.com/user-attachments/assets/6bb25ae9-49a2-48c2-b9dd-dbd01ba81fa9" />
+
